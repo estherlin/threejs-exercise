@@ -1,0 +1,29 @@
+body {
+    background-color: #000;
+    margin: 0px;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+
+#info {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    color: #f8f9fa;
+    padding: 10px;
+    text-align: center;
+}
+
+#tutorial {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+#source {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
